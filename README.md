@@ -8,4 +8,4 @@
 <code>📦 Tech stack: node.js</code>
 <br>
 <code>💬 telegram: [@BL_OD](https://t.me/BL_OD)</code>
-<code>📫 [sachko.maxim@lll.kpi.ua](mailto:maks07sim@gmail.com)</code>
+<code>📫 [maks07sim@gmail.com](mailto:maks07sim@gmail.com)</code>
